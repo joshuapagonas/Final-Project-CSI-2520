@@ -1,0 +1,30 @@
+{
+  "name": "agile-management-cloned",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuapagonas/Final-Project-CSI-2520.git"
+  },
+  "keywords": [
+    "node.js",
+    "html",
+    "css"
+  ],
+  "author": "Joshua Pagonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuapagonas/Final-Project-CSI-2520/issues"
+  },
+  "homepage": "https://github.com/joshuapagonas/Final-Project-CSI-2520#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
